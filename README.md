@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+###Olá, meu nome é **nicolly**, eu sou aluna do 1 ano A do ensino medio da turma pensamento computacional
+!{}(https://tenor.com/bTwqK.gif0)
 <!--
 **nicolly36/nicolly36** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
